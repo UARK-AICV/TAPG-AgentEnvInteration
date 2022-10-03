@@ -54,22 +54,11 @@ paper: [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal
 ## Citation
 If you find AEI useful for your research, please consider citing:
 ```
-@article{khoavoAEI2021,
-  author    = {Khoa Vo and
-               Hyekang Joo and
-               Kashu Yamazaki and
-               Sang Truong and
-               Kris Kitani and
-               Minh{-}Triet Tran and
-               Ngan Le},
-  title     = {{AEI:} Actors-Environment Interaction with Adaptive Attention for
-               Temporal Action Proposals Generation},
-  journal   = {CoRR},
-  volume    = {abs/2110.11474},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2110.11474},
-  eprinttype = {arXiv},
-  eprint    = {2110.11474},
+@article{vo2021aei,
+ author = {Vo, K. and Joo, H. and Yamazaki, K. and Truong, S. and Kitani, K. and Tran, M. and Le, N.},
+ journal = {BMVC},
+ title = {{{AEI}: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation}},
+ year = {2021}
 }
 ```
 
