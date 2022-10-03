@@ -55,7 +55,7 @@ paper: [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal
 If you find AEI useful for your research, please consider citing:
 ```
 @article{vo2021aei,
- author = {Vo, K. and Joo, H. and Yamazaki, K. and Truong, S. and Kitani, K. and Tran, M. and Le, N.},
+ author = {Vo, Khoa and Joo, Hyekang and Yamazaki, Kashu and Truong, Sang and Kitani, Kris and Tran, Minh-Triet and Le, Ngan},
  journal = {BMVC},
  title = {{{AEI}: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation}},
  year = {2021}
